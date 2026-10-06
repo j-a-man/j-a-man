@@ -1,14 +1,14 @@
-# Hi, I'm Jaylin 👋
+# Hi, I'm Jaylin
 
 CS @ Binghamton University ('28) · New York
 
 I turn manual workflows into software, working directly with the people who use them. Interested in **technical product management**, **solutions engineering and architecture**, and **AI tooling**.
 
-- 🛠️ Technical Product Intern @ **Stutter Forward** · Product Engineer @ **Asian American Dream**
-- 🔬 AI Research Intern @ **Air Force Research Laboratory** (Summer 2026)
-- 🏆 1st place, **Cisco Webex AI Case Competition**
+- Technical Product Intern @ **Stutter Forward** · Product Engineer @ **Asian American Dream**
+- AI Research Intern @ **Air Force Research Laboratory** (Summer 2026)
+- 1st place, **Cisco Webex AI Case Competition**
 
-## 🚀 Projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
@@ -19,7 +19,7 @@ I turn manual workflows into software, working directly with the people who use 
 | [**docpipe**](https://github.com/j-a-man/docpipe) | Turns a codebase into a context tree that coding agents query over MCP |
 | [**afterword**](https://github.com/j-a-man/afterword) | Local call transcription with AI-written meeting notes |
 
-## 💻 Skills
+## Skills
 
 **Languages**
 
