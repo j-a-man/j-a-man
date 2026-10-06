@@ -1,96 +1,66 @@
-# Hi, I'm Jaylin
+# Hi, I'm Jaylin 👋
 
-**Computer Science @ Binghamton University, graduating May 2028** · New York
+CS @ Binghamton University ('28) · New York
 
-I build software with the people who use it. Most of my projects start the same way: someone is running an important process on spreadsheets, group chats, or a pile of manual steps. I interview the people doing the work, write down what the tool actually has to do, ship it in small releases, and keep iterating from their feedback.
+I turn manual workflows into software, working directly with the people who use them. Interested in **technical product management**, **solutions engineering and architecture**, and **AI tooling**.
 
-That loop between users, engineers, and stakeholders is why I'm drawn to **technical product management, solutions engineering, and solutions architecture**.
+- 🛠️ Technical Product Intern @ **Stutter Forward** · Product Engineer @ **Asian American Dream**
+- 🔬 AI Research Intern @ **Air Force Research Laboratory** (Summer 2026)
+- 🏆 1st place, **Cisco Webex AI Case Competition**
 
-- 🛠️ **Now:** Technical Product Intern at **Stutter Forward**, Binghamton University, building the online platform for a coaching program for people who stutter. Also Product Engineer at **Asian American Dream** on the Kin Mentorship Portal.
-- 🔬 **Summer 2026:** AI Research Intern at the **Air Force Research Laboratory**, building LLM pipelines and agent tooling for a research team.
-- 🏆 **1st place**, Cisco Webex AI Case Competition, on a team of 4.
+## 🚀 Projects
 
----
+| Project | What it does |
+| --- | --- |
+| **Schedulr** *(private)* | Scheduling app for a 40-person restaurant that cut weekly scheduling from 2 hours to 15 minutes |
+| **Kin Mentorship Portal** *(private)* | Event RSVPs, QR check-in, and SMS alerts for Asian American Dream's mentorship program |
+| [**hourglass**](https://github.com/j-a-man/hourglass) | Geofenced clock-in and payroll export for an independent pharmacy |
+| [**Kira**](https://github.com/j-a-man/kira) | Personal AI agent with risk-tiered tools, Telegram approvals, and an audit log |
+| [**docpipe**](https://github.com/j-a-man/docpipe) | Turns a codebase into a context tree that coding agents query over MCP |
+| [**afterword**](https://github.com/j-a-man/afterword) | Local call transcription with AI-written meeting notes |
 
-## Shipped for real users
+## 💻 Skills
 
-### Schedulr · *private repo, demo on request*
-Staff scheduling for a 40-person restaurant that was coordinating shifts over WhatsApp and a spreadsheet.
-- Cut the manager's weekly scheduling from about 2 hours to 15 minutes
-- Interviewed staff to prioritize features, then shipped shift swaps, surveys, and PDF export across 6 releases
-- Generates schedule options from 5 strategies, like balanced hours, weekend-first, and minimal change, and flags understaffed shifts instead of hiding them
-- Solo build: 145 commits and 140+ unit tests running in CI
+**Languages**
 
-`React` `Hono` `Vercel` `Firebase`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Kin Mentorship Portal · Asian American Dream · *private org repo*
-The mentorship platform for Asian American Dream's Kin program. I'm the top contributor by commits.
-- Rebuilt event pages with RSVPs, QR self check-in, and automatic reminders
-- Added opt-in AWS SNS text alerts, queued in a Postgres outbox table and sent by a database-triggered function
-- Detects mentor-mentee meetings from Google Calendar invites, with a review queue for invites it can't match
+**Frameworks**
 
-`React` `Postgres` `AWS SES / SNS` `Edge Functions`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
-### hourglass · [repo](https://github.com/j-a-man/hourglass)
-Clock-in and payroll app for an independent pharmacy that tracked hours in Excel.
-- GPS-geofenced clock-ins within 100 m, open only during a scheduled shift or the store's operating hours
-- Pay-period CSV export with 15-minute rounding and overtime flags
-- Scheduling, recurring shifts, and time-off requests in one dashboard
+**Cloud and data**
 
-`Next.js` `Firebase` `Mapbox` `Vercel`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Small-business websites
-Sites for local pharmacies with appointment booking, prescription-transfer forms, and SEO:
-[Crescent Organix Pharmacy](https://crescentorganixpharmacy.com) (live, built with a teammate) · [Atlantic Pharmacy](https://github.com/j-a-man/atlanticpharmacy_v2) · [Health Guard Pharmacy](https://github.com/j-a-man/healthguardpharmacy)
+**AI tooling**
 
----
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-## AI and agent tooling
+## 📫 Contact
 
-### Kira · [repo](https://github.com/j-a-man/kira)
-A personal assistant agent built around guardrails rather than raw autonomy.
-- Every tool carries a risk level. Irreversible actions wait for approval in Telegram, and a timeout counts as no.
-- An append-only audit log records every action
-- Episodic memory in Postgres and pgvector with hybrid keyword and vector retrieval
-
-`Python` `Vertex AI` `Postgres` `pgvector` `Telegram`
-
-### docpipe · [repo](https://github.com/j-a-man/docpipe) · *built at AFRL*
-A CLI that indexes a codebase into a three-tier context tree, made up of an architecture map, module manifests, and symbol-level summaries. It serves that tree to coding agents through an MCP server. I built it so agents could find their way around a large legacy Java codebase.
-
-`Python` `MCP` `Gemini`
-
-### NodeForge · *built at AFRL, not public*
-A drag-and-drop workflow studio that lets analysts score and chart text data without writing code. When a needed step doesn't exist, an LLM drafts it, and that code runs in a sandbox that denies network access and file writes. The sandbox blocked 49 of 50 adversarial test operators.
-
-`Python` `FastAPI` `React Flow` `Pydantic`
-
-### afterword · [repo](https://github.com/j-a-man/afterword)
-Records calls, transcribes them locally with faster-whisper, and writes structured meeting notes with Gemini on Vertex AI.
-
-`Python` `faster-whisper` `Vertex AI`
-
-### jobapply · *private*
-The pipeline behind my resumes. It tailors to a job posting but only prints claims backed by an evidence bank, and a claims policy blocks anything a fact-check disproved.
-
-`Python` `Claude Code`
-
----
-
-## How I work
-
-- **Start with the people doing the work.** Interviews with restaurant staff, pharmacists, and program mentors shaped what I built more than any spec I wrote alone.
-- **Write it down before building.** Requirements, phased roadmaps, and release notes give a client something concrete to react to.
-- **Ship small, then iterate.** Schedulr went through 6 releases, each driven by feedback from the people using it.
-- **Treat AI output as untrusted until it's checked.** Sandboxes, approval gates, and evaluation runs come before anything gets relied on.
-
-## Toolbox
-
-- **Languages:** Python · TypeScript · JavaScript · Java · SQL · C/C++
-- **Web and APIs:** React · Next.js · Node.js · FastAPI · Hono · REST APIs
-- **Cloud and data:** GCP (Vertex AI) · AWS (SES, SNS) · Firebase · Postgres · pgvector · Vercel · Docker
-- **AI tooling:** Claude Code · Codex · MCP · faster-whisper · ChromaDB
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/jaylin-man/) · [jman@binghamton.edu](mailto:jman@binghamton.edu) · [jaylinman.com](https://jaylinman.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jaylin-man/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jman@binghamton.edu)
+[![Website](https://img.shields.io/badge/jaylinman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaylinman.com)
